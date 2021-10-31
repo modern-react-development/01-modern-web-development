@@ -135,7 +135,7 @@ After being _transpiled_ our code can be _minified_ and _bundled_ to produce the
 
 ## package.json
 
-```javascript
+```json
 {
   "name": "01-the-modern-web",
   "version": "1.0.0",
