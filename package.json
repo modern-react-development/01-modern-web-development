@@ -1,0 +1,22 @@
+{
+  "name": "01-modern-web-development",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md -w  --theme night --highlightTheme hybrid --port 1337 --css styles.css README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modern-react-development/01-modern-web-development.git",
+    "build": "reveal-md  --theme night --highlightTheme hybrid --css styles.css README.md --static dist",
+    "pdf": "reveal-md  --theme night --highlightTheme hybrid --css styles.css README.md --print slides.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modern-react-development/01-modern-web-development/issues"
+  },
+  "homepage": "https://github.com/modern-react-development/01-modern-web-development#readme"
+}
