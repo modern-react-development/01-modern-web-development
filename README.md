@@ -55,7 +55,7 @@ If we break down our UI into individual components, those components can be shar
 
 ---
 
-### Dependency Managementhttps://caniuse.com/
+### Dependency Management
 
 We can easily manage what version of a given dependency is needed for our project, and import those dependencies as needed (npm uses the package.json for this)
 
