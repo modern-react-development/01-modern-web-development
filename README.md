@@ -128,7 +128,7 @@ After being _transpiled_ our code can be _minified_ and _bundled_ to produce the
 
 - A package manager &mdash; manage the dependencies of our code base.
 - We will use this to install react as a dependency later
-- [https://npmjs.com] &mdash; a repository for JavaScript dependencies, anyone can publish a module here (the react dependency is hosted [here](https://www.npmjs.com/package/react)
+- [https://npmjs.com](http://npmjs.com) &mdash; a repository for JavaScript dependencies, anyone can publish a module here (the react dependency is hosted [here](https://www.npmjs.com/package/react)
 - We can install packages and automatically add them to our `package.json` file with `npm install <package name>`
 
 ---
